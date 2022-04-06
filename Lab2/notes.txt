@@ -1,0 +1,4 @@
+1) start the snapshot exercise with the flag "| tee test.log  "
+2) copy test.log to the folder snapshot_check
+3) execute "java Check test.log"
+4) if total is 10000 for every snapshot, the solution is correct
