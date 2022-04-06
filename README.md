@@ -5,3 +5,7 @@
 ## Lab 1
 * Akka introduction
 * Vector clocks (for "bulletin board")
+
+## Lab 2
+* Solution to lab1
+* Snapshot exercise
